@@ -1,5 +1,6 @@
 # Testing
 
+- testing git
 - Create a new GH repo for testing
 - create local repo for testing
 - In readme file write down all steps you do for this task.
