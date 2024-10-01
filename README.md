@@ -15,3 +15,17 @@
 - git checkout existing branch // switch branches
 - git push origin my_branch_name // push branch to remote repo
 - git pull origin my_branch_name // pull changes from a specific branch on a remote repo
+
+Commit mesaage guidelines:
+
+Each commit message consists of a header (mandatory) and a body (optional).
+
+Header:
+
+<Type>: <short summary>
+| |
+| |** Summary in present tense.
+|
+|** commit type: build|docs|feat|fix|refactor|test
+
+Body: write in body what have you done and explain
