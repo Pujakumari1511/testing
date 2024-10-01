@@ -15,3 +15,5 @@
 - git checkout existing branch // switch branches
 - git push origin my_branch_name // push branch to remote repo
 - git pull origin my_branch_name // pull changes from a specific branch on a remote repo
+- update github repository for testing
+- 
